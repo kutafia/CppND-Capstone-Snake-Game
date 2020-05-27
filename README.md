@@ -39,8 +39,8 @@ Have fun!
 This project meets the project rubric points 
 
 ### Loops, Functions, I/O
-* The project demonstrates an understanding of C++ functions and control structures. - A plenty of control structures are in use, code is (mostly) clearly organized into functions.
-* The project accepts user input and processes the input. - User input directly steers the actors movements.
+* The project demonstrates an understanding of C++ functions and control structures.
+* The project accepts user input and processes the input.
 
 ### Object Oriented Programming
 * The project uses Object Oriented Programming techniques. 
