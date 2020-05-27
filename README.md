@@ -33,3 +33,28 @@ The blue point is your actor, it can be controlled via arrow keys and it never s
 The red points are enemies which you should avoid unless you want to lose the game. 
 There're also yellow points being generated - those are tresures and you should get as many of them as you can, since they will increase your score.
 Have fun!
+
+
+## Project Rubric Points
+This project meets the project rubric points 
+
+### Loops, Functions, I/O
+* The project demonstrates an understanding of C++ functions and control structures. - A plenty of control structures are in use, code is (mostly) clearly organized into functions.
+* The project accepts user input and processes the input. - User input directly steers the actors movements.
+
+### Object Oriented Programming
+* The project uses Object Oriented Programming techniques. 
+* Classes use appropriate access specifiers for class members.
+* Class constructors utilize member initialization lists.
+* Classes abstract implementation details from their interfaces.
+* Classes encapsulate behavior.
+
+### Memory Management
+* The project makes use of references in function declarations.
+* The project uses destructors appropriately.
+* The project uses scope / Resource Acquisition Is Initialization (RAII) where appropriate.
+* The project uses smart pointers instead of raw pointers.
+
+### Concurrency
+* The project uses multithreading.
+* A mutex or lock is used in the project.
